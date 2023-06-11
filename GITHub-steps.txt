@@ -1,0 +1,14 @@
+
+First create a token on GIT for your repositories following these instructions on git.
+https://ginnyfahs.medium.com/github-error-authentication-failed-from-command-line-3a545bfd0ca8
+My token(valid for 30 days)
+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
+Now put the file your local repository directory.
+Then add your file/fiels using command.
+git add .
+Then push your files to remote repository using following command.
+git push
+On the popup select the token option.
+use username
+token already generated already
+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
